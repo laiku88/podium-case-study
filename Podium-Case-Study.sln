@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podium-Case-Study", "Podium-Case-Study\Podium-Case-Study.csproj", "{88DCB602-69A4-4783-B994-E2DEE3769B58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodiumTests", "PodiumTests\PodiumTests.csproj", "{F6E2FEF2-F8F2-4161-BCB2-1EEC8759891F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88DCB602-69A4-4783-B994-E2DEE3769B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DCB602-69A4-4783-B994-E2DEE3769B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DCB602-69A4-4783-B994-E2DEE3769B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DCB602-69A4-4783-B994-E2DEE3769B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E2FEF2-F8F2-4161-BCB2-1EEC8759891F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E2FEF2-F8F2-4161-BCB2-1EEC8759891F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E2FEF2-F8F2-4161-BCB2-1EEC8759891F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E2FEF2-F8F2-4161-BCB2-1EEC8759891F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6725433E-10EE-4D92-A10F-A4DE9E0F2B5C}
+	EndGlobalSection
+EndGlobal

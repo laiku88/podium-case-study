@@ -1,0 +1,10 @@
+[
+  {
+    "InterestRateTypeName": "Variable",
+    "Id": 1 
+  },
+  {
+    "InterestRateTypeName": "Fixed",
+    "Id": 2 
+  }
+]

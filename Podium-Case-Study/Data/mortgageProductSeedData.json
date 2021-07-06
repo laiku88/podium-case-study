@@ -1,0 +1,62 @@
+[
+  {
+    "Lender": "Bank A",
+    "InterestRate": 2,
+    "LoanToValue": 50,
+    "InterestRateTypeId": 1
+  },
+  {
+    "Lender": "Bank B",
+    "InterestRate": 3,
+    "LoanToValue": 60,
+    "InterestRateTypeId": 1
+  },
+  {
+    "Lender": "Bank C",
+    "InterestRate": 4,
+    "LoanToValue": 90,
+    "InterestRateTypeId": 1
+  },
+  {
+    "Lender": "Bank D",
+    "InterestRate": 3.5,
+    "LoanToValue": 70,
+    "InterestRateTypeId": 1
+  },
+  {
+    "Lender": "Bank E",
+    "InterestRate": 3.2,
+    "LoanToValue": 70,
+    "InterestRateTypeId": 1
+  },
+  {
+    "Lender": "Bank E",
+    "InterestRate": 5,
+    "LoanToValue": 90,
+    "InterestRateTypeId": 2
+  },
+  {
+    "Lender": "Bank F",
+    "InterestRate": 1.2,
+    "LoanToValue": 40,
+    "InterestRateTypeId": 2
+  },
+  {
+    "Lender": "Bank G",
+    "InterestRate": 1.3,
+    "LoanToValue": 45,
+    "InterestRateTypeId": 2
+  },
+  {
+    "Lender": "Bank H",
+    "InterestRate": 1.4,
+    "LoanToValue": 45,
+    "InterestRateTypeId": 2
+  },
+  {
+    "Lender": "Bank I",
+    "InterestRate": 1.7,
+    "LoanToValue": 55,
+    "InterestRateTypeId": 2
+  }
+]
